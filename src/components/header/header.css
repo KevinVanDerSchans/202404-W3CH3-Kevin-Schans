@@ -1,0 +1,16 @@
+header {
+  width: 100%;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.title {
+  font-size: 2rem;
+  color: rgb(144, 41, 41);
+}
+
+.sub-title {
+  font-size: 1.2rem;
+  color: rgb(47, 45, 45);
+  font-weight: 700;
+}

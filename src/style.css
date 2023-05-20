@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+body,
+html {
+    height: 100%;
+    background-color: rgb(138, 138, 224);
+    font-family: -apple-system, BlinkMacSystemFont, "Calibri", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
