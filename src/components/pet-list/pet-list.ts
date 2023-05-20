@@ -37,7 +37,7 @@ export class List extends Component {
 			.map(
 				pet => `
     <li>
-      <img src="./public/assets/${pet.name}.png" >
+      <img src="/assets/${pet.name.toLowerCase()}.png" >
       <p>Id: ${pet.id}</p>
       <p>Name: ${pet.name}</p>
       <p>Breed: ${pet.breed}</p>
